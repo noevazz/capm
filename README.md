@@ -17,9 +17,13 @@ Download the Exam Content Outline here: https://www.pmi.org/-/media/pmi/document
 
 ## WHAT IS A PROJECT
 
-A project is a temporary endevour
+A project is a temporary endeavour undertaken to create a unique service or result
 
-> In the context of project management the word `temporary` means something has a start and end date. An `on-going` effort is one that does NOT have and end date, therefore it is NOT a project.
+- **Temporary** (in the context of project management) means it has a start and end date.
+
+> Note. An `on-going` effort is one that does NOT have and end date, therefore it is **NOT a project**. Another common terms for an on-going effort are continuing, repetitive, open-ended
+
+NOT A PROJECT: Noe is fixing bugs in **continuing** task.
 
 ### Variaty of Projects
 
@@ -31,7 +35,30 @@ Projects can by divided in to three categories:
 
 - **Hybrid**: It's a combination of predictive and adaptive projects, example, working in a project that needs to meet regulations or stric rules, in this scenario the requirements are set but the building process can be done via iterations.
 
-Key takeaways:
+### Projects VS Operations
+
+Operations are activities that occur repetitively and produce deliverables that are similar.
+
+`Manufacturing` is an example of operations.
+
+Operations in IT (information technology): Operation teams are responsible for maintaining, managing, and optimizing existing systems to ensure their reliability and performance.
+
+**To remember: Operations are NOT projects.**
+
+Trick example:
+
+- A bakary is not a project because the product is expected to be the same and the process is repetitive.
+- BUT, what if you want to create a **new** kind of bread? in that case that can be a project, the result will be unique and the process will be different, it will aso have a start and end date.
+
+> So keep an eye in the details provided in each scenario.
+
+#### Project-based operations
+
+These are combinations of operations but the product usually is customized so it needs to be handled as a project. Example: expensive cars that allows you to choose the wheels, seats, color, etc. etc.
+
+Software as a Service is another example of project-based operations. You may rent a software to manage your clients but you may want to have specific features or customized your logo, text, theme, etc.
+
+### Key takeaways:
 
 - Increment means delivering something
 - Iterative means repeat.
