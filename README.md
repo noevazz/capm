@@ -58,12 +58,18 @@ These are combinations of operations but the product usually is customized so it
 
 Software as a Service is another example of project-based operations. You may rent a software to manage your clients but you may want to have specific features or customized your logo, text, theme, etc.
 
+> Project-based operations have `functional managers` instead of project managers, functional managers are responsible for the operation, they have direct authority over people (project managers rarely have direct authority over people).
+
+### Project Value
+
+`IMPORTANT: The value is defined by the stakeholders.`
+
+> Stakeholders are individuals, groups, or organizations that may be affected by or have an interest in a project, and whose interests may be positively or negatively impacted by the execution or outcome of the project.
+
 ### Key takeaways:
 
 - Increment means delivering something
 - Iterative means repeat.
-
-
 
 
 Business Analysis involves `identifying` business `needs` and determining solutions to business problems. **Poorly defined or misunderstood requirements are one of the leading causes of `project failure`. Business analysis focuses heavily on requirement**
